@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.test.DownloadsTest">
+      <class name="com.test.UserTest">
         <methods>
-          <include name="beforeMethod"/>
-          <include name="toVerifyThatCountOfToolColumnElement"/>
+          <include name="toVerifyThatAlertIsAccepted"/>
           <include name="afterMethod"/>
+          <include name="beforeMethod"/>
         </methods>
-      </class> <!-- com.test.DownloadsTest -->
+      </class> <!-- com.test.UserTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

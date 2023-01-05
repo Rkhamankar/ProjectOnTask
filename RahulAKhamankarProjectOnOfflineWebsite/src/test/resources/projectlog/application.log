@@ -4889,3 +4889,59 @@ Online
 2022-12-11 14:22:38,083  INFO [main] BaseClass:73 - Logout To Application
 2022-12-11 14:22:42,292  INFO [main] BaseClass:32 - Closing the Browser
 2022-12-11 14:22:42,413  INFO [main] BaseClass:34 - Browser Closed
+2022-12-12 14:25:02,098  INFO [main] BaseClass:21 -  Initialization Browser
+2022-12-12 14:25:02,102  INFO [main] BaseClass:56 - Reading a property file for a browser name
+2022-12-12 14:25:04,647  INFO [main] BaseClass:62 - Opening Browser as found in file
+2022-12-12 14:25:04,648  INFO [main] BaseClass:63 - User Launching Chrome Browser
+2022-12-12 14:25:05,507  INFO [main] BaseClass:43 - ::::Maximizing Window::::
+2022-12-12 14:25:05,656  INFO [main] BaseClass:46 - :::::Applying Waits::::
+2022-12-12 14:25:05,686  INFO [main] BaseClass:50 - User Launching JBK offline Application
+2022-12-12 14:25:05,686  INFO [main] BaseClass:23 - Load a LoginPage
+2022-12-12 14:25:09,956  INFO [main] BaseClass:62 - Test Case no:- 03 of User Page Functionality (toVerifyThatAlertIsAccepted)
+2022-12-12 14:25:10,245  INFO [main] BaseClass:33 - Logout To Application
+2022-12-12 14:25:14,450  INFO [main] BaseClass:36 - Closing the Browser
+2022-12-12 14:25:14,618  INFO [main] BaseClass:38 - Browser Closed
+2022-12-12 14:26:31,849  INFO [main] BaseClass:21 -  Initialization Browser
+2022-12-12 14:26:31,852  INFO [main] BaseClass:56 - Reading a property file for a browser name
+2022-12-12 14:26:34,123  INFO [main] BaseClass:62 - Opening Browser as found in file
+2022-12-12 14:26:34,124  INFO [main] BaseClass:63 - User Launching Chrome Browser
+2022-12-12 14:26:34,378  INFO [main] BaseClass:43 - ::::Maximizing Window::::
+2022-12-12 14:26:34,551  INFO [main] BaseClass:46 - :::::Applying Waits::::
+2022-12-12 14:26:34,583  INFO [main] BaseClass:50 - User Launching JBK offline Application
+2022-12-12 14:26:34,583  INFO [main] BaseClass:23 - Load a LoginPage
+2022-12-12 14:26:36,082  INFO [main] BaseClass:62 - Test Case no:- 03 of User Page Functionality (toVerifyThatAlertIsAccepted)
+2022-12-12 14:26:36,185  INFO [main] PageUtility:88 - Alert message :- Are you sure you want to delete this user
+2022-12-12 14:26:40,229  INFO [main] PageUtility:88 - Alert message :- User deleted successfully.
+2022-12-12 14:26:42,259  INFO [main] UserPage:99 - Alert is accepted
+2022-12-12 14:26:42,306  INFO [main] UserPage:102 - The actual Row count is :- 5
+2022-12-12 14:26:42,306  INFO [main] UserPage:107 - Actual Row count is match with Expected Row count
+2022-12-12 14:26:42,322  INFO [main] BaseClass:33 - Logout To Application
+2022-12-12 14:26:46,537  INFO [main] BaseClass:36 - Closing the Browser
+2022-12-12 14:26:46,847  INFO [main] BaseClass:38 - Browser Closed
+2022-12-12 14:27:46,184  INFO [main] BaseClass:21 -  Initialization Browser
+2022-12-12 14:27:46,188  INFO [main] BaseClass:56 - Reading a property file for a browser name
+2022-12-12 14:27:48,470  INFO [main] BaseClass:62 - Opening Browser as found in file
+2022-12-12 14:27:48,471  INFO [main] BaseClass:63 - User Launching Chrome Browser
+2022-12-12 14:27:49,340  INFO [main] BaseClass:43 - ::::Maximizing Window::::
+2022-12-12 14:27:49,487  INFO [main] BaseClass:46 - :::::Applying Waits::::
+2022-12-12 14:27:49,517  INFO [main] BaseClass:50 - User Launching JBK offline Application
+2022-12-12 14:27:49,518  INFO [main] BaseClass:23 - Load a LoginPage
+2022-12-12 14:27:53,472  INFO [main] BaseClass:62 - Test Case no:- 03 of User Page Functionality (toVerifyThatAlertIsAccepted)
+2022-12-12 14:27:53,717  INFO [main] BaseClass:33 - Logout To Application
+2022-12-12 14:27:57,936  INFO [main] BaseClass:36 - Closing the Browser
+2022-12-12 14:27:58,159  INFO [main] BaseClass:38 - Browser Closed
+2022-12-12 18:28:12,248  INFO [main] BaseClass:23 -  Initialization Browser
+2022-12-12 18:28:12,252  INFO [main] BaseClass:56 - Reading a property file for a browser name
+2022-12-12 18:28:15,575  INFO [main] BaseClass:62 - Opening Browser as found in file
+2022-12-12 18:28:15,575  INFO [main] BaseClass:63 - User Launching Chrome Browser
+2022-12-12 18:28:16,615  INFO [main] BaseClass:43 - ::::Maximizing Window::::
+2022-12-12 18:28:16,760  INFO [main] BaseClass:46 - :::::Applying Waits::::
+2022-12-12 18:28:16,789  INFO [main] BaseClass:50 - User Launching JBK offline Application
+2022-12-12 18:28:16,790  INFO [main] BaseClass:25 - Load a LoginPage
+2022-12-12 18:28:20,043  INFO [main] BaseClass:44 - Test Case no:- 01 of DashBoard Functionality (verifyThatAllCources)
+2022-12-12 18:28:20,044  INFO [main] DashboardPage:35 - Expected List :- [Selenium, Java / J2EE, Python, Php]
+2022-12-12 18:28:20,145  INFO [main] DashboardPage:51 - Actual List :- [Selenium, Java / J2EE, Python, Php]
+2022-12-12 18:28:20,145  INFO [main] DashboardPage:55 - All the cources are available on Dashboard Page
+2022-12-12 18:28:20,158  INFO [main] BaseClass:33 - Logout To Application
+2022-12-12 18:28:25,215  INFO [main] BaseClass:36 - Closing the Browser
+2022-12-12 18:28:41,518  INFO [main] BaseClass:38 - Browser Closed

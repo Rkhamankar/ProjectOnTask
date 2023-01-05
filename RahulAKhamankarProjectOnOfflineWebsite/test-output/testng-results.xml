@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16961" started-at="2022-12-12T12:46:00 IST" finished-at="2022-12-12T12:46:17 IST">
+  <suite name="Default suite" duration-ms="29795" started-at="2022-12-12T18:28:11 IST" finished-at="2022-12-12T18:28:41 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16961" started-at="2022-12-12T12:46:00 IST" finished-at="2022-12-12T12:46:17 IST">
-      <class name="com.test.UserTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.UserTest@5bcea91b]" name="beforeMethod" is-config="true" duration-ms="5850" started-at="2022-12-12T12:46:00 IST" finished-at="2022-12-12T12:46:06 IST">
+    <test name="Default test" duration-ms="29795" started-at="2022-12-12T18:28:11 IST" finished-at="2022-12-12T18:28:41 IST">
+      <class name="com.test.DashboardTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.DashboardTest@18bf3d14]" name="beforeMethod" is-config="true" duration-ms="7782" started-at="2022-12-12T18:28:12 IST" finished-at="2022-12-12T18:28:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="toVerifyThatAlertIsAccepted()[pri:3, instance:com.test.UserTest@5bcea91b]" name="toVerifyThatAlertIsAccepted" duration-ms="6245" started-at="2022-12-12T12:46:06 IST" finished-at="2022-12-12T12:46:13 IST">
+        <test-method status="PASS" signature="verifyThatAllCources()[pri:1, instance:com.test.DashboardTest@18bf3d14]" name="verifyThatAllCources" duration-ms="123" started-at="2022-12-12T18:28:20 IST" finished-at="2022-12-12T18:28:20 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- toVerifyThatAlertIsAccepted -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.UserTest@5bcea91b]" name="afterMethod" is-config="true" duration-ms="4408" started-at="2022-12-12T12:46:13 IST" finished-at="2022-12-12T12:46:17 IST">
+        </test-method> <!-- verifyThatAllCources -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.DashboardTest@18bf3d14]" name="afterMethod" is-config="true" duration-ms="21361" started-at="2022-12-12T18:28:20 IST" finished-at="2022-12-12T18:28:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- com.test.UserTest -->
+      </class> <!-- com.test.DashboardTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

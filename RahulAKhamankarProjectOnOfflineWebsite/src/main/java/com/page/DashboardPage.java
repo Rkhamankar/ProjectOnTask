@@ -36,17 +36,17 @@ public class DashboardPage extends DashboardObjectRepo {
 		
 		 ArrayList<String> actCourcesList = new ArrayList<String>();
 		
-		//languages.forEach(langName -> actCourcesList.add(langName.getText()));
+		languages.forEach(langName -> actCourcesList.add(langName.getText()));
 		 
-		 for (WebElement langName : languages) {
-			 
-			 String text=langName.getText();
-			 
-			 actCourcesList.add(text);
-			 
-			 System.out.println("Languages Name :- "+text);
+//		 for (WebElement langName : languages) {
+//			 
+//			 String text=langName.getText();
+//			 
+//			 actCourcesList.add(text);
+//			 
+//			 System.out.println("Languages Name :- "+text);
 			
-		}
+//		}
 		 
 		 log.info("Actual List :- "+actCourcesList);
 		 
